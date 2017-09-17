@@ -4,6 +4,7 @@ public class Main {
         int a = 3;
         int b = a * 8;
         System.out.println("LOL " + b);
+        System.out.println("LOL 123");
     }
 
 }
