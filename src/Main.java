@@ -5,6 +5,7 @@ public class Main {
         int b = a * 8;
         System.out.println("LOL " + b);
         System.out.println("LOL 123");
+        System.out.println("LOL 1234");
     }
 
 }
